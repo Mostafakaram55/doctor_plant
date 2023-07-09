@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "981129283029",
+    "project_id": "plantdoctor-23202",
+    "storage_bucket": "plantdoctor-23202.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:981129283029:android:e38851f551af71dd06295c",
+        "android_client_info": {
+          "package_name": "com.example.doctor_plant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "981129283029-gt6uu5mbupsc5saddqbho66i7k3s1bip.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.doctor_plant",
+            "certificate_hash": "4e198016ffac64f4640aa7cbd6e353044b537248"
+          }
+        },
+        {
+          "client_id": "981129283029-4vrqk0p5aq5mkpc8gcer88sajseh4um1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArp-aXJGK5takTjYseTNDTr7jyDhaSC2w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "981129283029-4vrqk0p5aq5mkpc8gcer88sajseh4um1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
